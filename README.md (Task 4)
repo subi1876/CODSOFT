@@ -1,0 +1,8 @@
+Task Name: Rock Paper Scissors Game
+
+Description:
+This is a command-line Rock Paper Scissors game developed using Python.
+The user plays against the computer, and the score is tracked for multiple rounds.
+
+Language Used:
+Python
